@@ -1,0 +1,3 @@
+Titulo do texto
+
+Aquivo utilizado para testar as exception do java.

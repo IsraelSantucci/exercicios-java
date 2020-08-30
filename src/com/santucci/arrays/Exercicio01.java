@@ -19,6 +19,18 @@ public class Exercicio01 {
 		for(int numero : numeros2) {
 			System.out.print(numero + "  ");
 		}
+		
+		System.out.println("===========");
+		String nome = "aasrael";
+		int[] a = new int[26];
+		
+		for(int s : nome.toCharArray()) {
+			a[1]++;
+		}
+		for(int s : a) {
+			System.out.println(s);
+		}
+		System.out.println(Math.min(7, 3));
 	}
 
 }
