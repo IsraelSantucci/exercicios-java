@@ -3,8 +3,6 @@ package com.santucci.manipulandodata.classedateformat;
 import java.text.DateFormat;
 import java.util.Date;
 
-import javafx.scene.input.DataFormat;
-
 public class TestandoDateFormat {
 
 	public static void main(String[] args) {
