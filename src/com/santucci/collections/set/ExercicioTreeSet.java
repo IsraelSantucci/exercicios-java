@@ -1,8 +1,7 @@
 package com.santucci.collections.set;
 
-import java.util.Set;
-import java.util.TreeSet;
 import java.util.Iterator;
+import java.util.TreeSet;
 
 public class ExercicioTreeSet {
 

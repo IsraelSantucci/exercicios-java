@@ -16,6 +16,8 @@ public class ExercicioHashSet {
 		conjunto.add("Bruna");
 		conjunto.add("Fernanda");
 		
+		conjunto.add("Ana");
+		
 		System.out.println(conjunto);
 		
 		System.out.println("O conjunto tem o nome 'Ana'? " +  conjunto.contains("Ana"));
